@@ -21,7 +21,7 @@ function cargar_productos() {
 }
 
 function calcular_mas_IVA(precio, button) {
-    const IVA = 0.21;
+    const IVA = 0.23;
     const mas_iva = precio + (IVA * precio);
     mostrar_precio_mas_iva(mas_iva, button);
 }
