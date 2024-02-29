@@ -1,0 +1,35 @@
+[
+
+{
+
+"id": 1,
+"nombre": "Computadora portatil",
+"marca": "DELL",
+"precio": 2599,
+"imagen": "./images/laptop.jpg"
+
+
+},
+{
+
+"id": 2,
+"nombre": "Teclado  inalambrico",
+"marca": "Logitech",
+"precio": 99,
+"imagen": "./images/images.jpeg"
+
+},
+
+{
+"id": 2,
+"nombre": "Mouse inalambrico",
+"marca": "Kolke",
+"precio": 69,
+"imagen": "./images/mouse.jpeg"
+
+}
+
+
+
+
+]

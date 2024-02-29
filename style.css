@@ -1,0 +1,74 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+body{
+
+    background-color: rgb(98, 55, 207);
+    font-size: 2rem;
+}
+
+h1{
+
+    color: rgb(210, 103, 32);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin: 3rem;
+}
+
+.flex-container-productos{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+    margin: 5rem;
+    gap: 1rem;
+    background-color: antiquewhite;
+    padding: 1rem;
+    border-radius: 1rem; 
+    box-shadow: 5px 5px 5px #000;
+   
+}
+.producto{
+
+    text-align: center;
+}
+
+
+.titulo{
+
+    
+}
+.flex-container-productos h2{
+
+    padding: 1rem;
+    color: rgb(91, 31, 147);
+    font-size: 2rem;
+}
+
+.imagen-prod{
+
+    width: 250px;
+    height: 250px;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px #000;
+}
+
+button{
+    font-size: 2rem;
+}
+
+.resultado{
+
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
